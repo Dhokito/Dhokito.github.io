@@ -1,0 +1,668 @@
+# Translation of Themes - Fiona Blog in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Fiona Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-25 17:50:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Fiona Blog\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Fiona blog is perfect for writers, authors, motivators, bloggers and all types of blogs, news & magazines websites. It has come with all post formats like Standard, Video, Audio, Chat, Aside, Blockquote, Link, Gallery and more. Fiona backend functionality based on category, post, widget, & customizer. Unlock 11 homepages with exquisite sliders for different looks to your website. Guest users can switch theme color skins dark & light. This helps to make readers feel the pleasure of reading blog posts and articles. View the demo of Fiona Pro https://www.nayrathemes.com/demo/pro/?theme=fiona"
+msgstr "Fiona Blog es perfecto para escritores, autores, motivadores, blogueros y para todo tipo de blogs, webs de noticias y revistas. Viene con todos los formatos de entrada como Estándar, Video, Audio, Chat, Aparte, Bloque de cita, Enlace, Galería y muchos más. Fiona gestiona los contenidos con el personalizador en el backend en base a categorías, entradas y widgets. Desbloquea 11 páginas de inicio con exquisitos sliders para presentar diferentes looks en tu sitio web. Los usuarios invitados pueden cambiar el estilo de color del tema entre oscuro y claro. Esto ayuda a que los lectores puedan disfrutar de la lectura de entradas y artículos de blog. Ver la demos de Fiona Pro en https://www.nayrathemes.com/demo/pro/?theme=fiona"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Fiona Blog"
+msgstr "Fiona Blog"
+
+#: inc/customize/fiona-blog-feature-categories.php:57
+msgid "Hide / Show"
+msgstr "Ocultar / Mostrar"
+
+#: inc/customize/fiona-blog-feature-categories.php:37
+msgid "Setting"
+msgstr "Ajuste"
+
+#: inc/customize/fiona-blog-premium.php:33
+msgid "Show Some Love"
+msgstr "Danos un poco de cariño"
+
+#: inc/customize/fiona-blog-premium.php:29
+msgid "Free Vs Pro"
+msgstr "Gratis vs PRO"
+
+#: inc/customize/fiona-blog-premium.php:27
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+#: inc/customize/fiona-blog-premium.php:25
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: inc/customize/fiona-blog-premium.php:9
+#: inc/customize/fiona-blog-premium.php:31
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: inc/extras.php:154
+msgid "Get started with Fiona Blog"
+msgstr "Comienza con Fiona Blog"
+
+#: inc/extras.php:152
+msgid "Install and activate <strong>Clever Fox</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instala y activa el plugin <strong>Clever Fox</strong> para sacar el máximo partido a todas las características de este tema."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:148
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s!"
+
+#: inc/extras.php:141
+msgid "Theme Screenshot"
+msgstr "Captura de pantalla del tema"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: template-parts/sections/section-breadcrumb.php:43
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: template-parts/sections/section-breadcrumb.php:39
+msgid "Error 404"
+msgstr "Error 404"
+
+#: template-parts/sections/section-breadcrumb.php:35
+msgid "Tag Archives: %s"
+msgstr "Archivos de la etiqueta %s"
+
+#: template-parts/sections/section-breadcrumb.php:31
+msgid "Category Archives: %s"
+msgstr "Archivos de la categoría %s"
+
+#: template-parts/sections/section-breadcrumb.php:27
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#: template-parts/sections/section-breadcrumb.php:23
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+#: template-parts/sections/section-breadcrumb.php:19
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: template-parts/sections/section-header.php:109
+msgid "Login to add posts to your read later list"
+msgstr "Accede para añadir entradas a tu lista de leer más tarde"
+
+#: template-parts/sections/section-header.php:30
+msgid "Type To Search"
+msgstr "Escribe tu búsqueda"
+
+#: template-parts/sections/section-header.php:29
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: template-parts/sections/section-header.php:28
+msgid "Site Search"
+msgstr "Buscar en el sitio"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con palabras clave diferentes."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content/content.php:37
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:745
+#: inc/customizer-repeater/class/customizer-repeater-control.php:778
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:740
+#: inc/customizer-repeater/class/customizer-repeater-control.php:770
+msgid "Remove Icon"
+msgstr "Eliminar icono"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:723
+msgid "Social icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:715
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:710
+msgid "Image type"
+msgstr "Tipo de imagen"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:699
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:695
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:691
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:687
+msgid "Slide Align"
+msgstr "Alineación de diapositiva"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:675
+msgid "Slider Image"
+msgstr "Imagen del Slider"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:649
+#: inc/customizer-repeater/class/customizer-repeater-control.php:678
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:646
+#: inc/customizer-repeater/class/customizer-repeater-control.php:714
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:610
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: algunos iconos no se muestran aquí. Puedes ver la lista completa de iconos en %1$s."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Open link in new tab:"
+msgstr "Abrir enlace en una nueva pestaña:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:557
+msgid "Delete field"
+msgstr "Borrar campo"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:492
+msgid "skill"
+msgstr "habilidad"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:422
+msgid "Delete %s"
+msgstr "Borrar %s"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:406
+#: inc/customizer-repeater/class/customizer-repeater-control.php:546
+msgid "Designation"
+msgstr "Denominación"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:398
+#: inc/customizer-repeater/class/customizer-repeater-control.php:537
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:388
+#: inc/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:358
+#: inc/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Video Url"
+msgstr "URL del vídeo"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:344
+#: inc/customizer-repeater/class/customizer-repeater-control.php:509
+#: inc/customizer-repeater/class/customizer-repeater-control.php:737
+#: inc/customizer-repeater/class/customizer-repeater-control.php:759
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer-repeater/class/customizer-repeater-control.php:499
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:325
+msgid "skills"
+msgstr "habilidades"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:311
+#: inc/customizer-repeater/class/customizer-repeater-control.php:478
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:304
+#: inc/customizer-repeater/class/customizer-repeater-control.php:471
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "Repetidor del personalizador"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "Añadir un campo nuevo"
+
+#: inc/template-tags.php:324
+msgid "Read More"
+msgstr "Leer más"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado en %s"
+
+#: inc/customize/fiona-blog-footer.php:38
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customize/fiona-blog-footer.php:25
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Funciona gracias a [theme_author]"
+
+#: inc/customize/fiona-blog-footer.php:18
+msgid "Below Footer"
+msgstr "Debajo del pie de página"
+
+#: inc/customize/fiona-blog-footer.php:10
+msgid "Footer"
+msgstr "Pie"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: inc/customize/customizer_recommended_plugin.php:10
+msgid "Install and activate <strong>cleverfox</strong> plugin for taking full advantage of all the features this theme has to offer Fiona Blog."
+msgstr "Instala y activa el plugin <strong>cleverfox</strong> para aprovechar al máximo todas las características que el tema Fiona Blog tiene para ofrecer."
+
+#: inc/customize/fiona-blog-general.php:196
+msgid "Fixed"
+msgstr "Fijo"
+
+#: inc/customize/fiona-blog-general.php:195
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/customize/fiona-blog-general.php:194
+msgid "Inherit"
+msgstr "Heredar"
+
+#: inc/customize/fiona-blog-general.php:189
+msgid "Background Attachment"
+msgstr "Fijación del fondo"
+
+#: inc/customize/fiona-blog-general.php:170
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customize/fiona-blog-general.php:152
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customize/fiona-blog-general.php:126
+msgid "Min Height"
+msgstr "Altura mínima"
+
+#: inc/customize/fiona-blog-general.php:86
+msgid "Hide / Show Section"
+msgstr "Sección Ocultar / Mostrar"
+
+#: inc/customize/fiona-blog-general.php:66
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/customize/fiona-blog-general.php:46
+msgid "Breadcrumb"
+msgstr "Migas de pan"
+
+#: inc/customize/fiona-blog-general.php:35
+msgid "Hide / Show Scroller"
+msgstr "Ocultar / Mostrar scroller"
+
+#: inc/customize/fiona-blog-general.php:16
+msgid "Scroller"
+msgstr "Scroller"
+
+#: inc/customize/fiona-blog-general.php:7
+msgid "General"
+msgstr "Generales"
+
+#: inc/customize/fiona-blog-header.php:399
+#: inc/customize/fiona-blog-header.php:418
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: inc/customize/fiona-blog-general.php:107
+#: inc/customize/fiona-blog-header.php:386
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customize/fiona-blog-header.php:350
+msgid "Docker"
+msgstr "Docker"
+
+#: inc/customize/fiona-blog-header.php:329
+#: inc/customizer-repeater/class/customizer-repeater-control.php:605
+#: inc/customizer-repeater/class/customizer-repeater-control.php:713
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/customize/fiona-blog-header.php:310
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: inc/customize/fiona-blog-header.php:291
+#: inc/customizer-repeater/class/customizer-repeater-control.php:318
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Button Label"
+msgstr "Etiqueta del botón"
+
+#: inc/customize/fiona-blog-header.php:254
+msgid "Button"
+msgstr "Botón"
+
+#: inc/customize/fiona-blog-header.php:217
+msgid "Cart"
+msgstr "Carro"
+
+#: inc/customize/fiona-blog-header.php:119
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: inc/customize/fiona-blog-header.php:80
+msgid "Social Icon"
+msgstr "Icono social"
+
+#: inc/customize/fiona-blog-header.php:59
+#: inc/customize/fiona-blog-header.php:99
+#: inc/customize/fiona-blog-header.php:159
+#: inc/customize/fiona-blog-header.php:197
+#: inc/customize/fiona-blog-header.php:234
+#: inc/customize/fiona-blog-header.php:271
+#: inc/customize/fiona-blog-header.php:368
+#: inc/customize/fiona-blog-header.php:435
+msgid "Hide/Show"
+msgstr "Ocultar/Mostrar"
+
+#: inc/customize/fiona-blog-header.php:23
+msgid "Header Navigation"
+msgstr "Navegación de la cabecera"
+
+#: inc/customize/fiona-blog-header.php:12
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customize/fiona-blog-feature-categories.php:133
+msgid "No of Posts Display"
+msgstr "Nº entradas a mostar"
+
+#: inc/customize/fiona-blog-feature-categories.php:113
+msgid "Select category"
+msgstr "Seleccionar categoría"
+
+#: inc/customize/fiona-blog-feature-categories.php:95
+#: inc/customizer-repeater/class/customizer-repeater-control.php:296
+#: inc/customizer-repeater/class/customizer-repeater-control.php:463
+msgid "Title"
+msgstr "Título"
+
+#: inc/customize/fiona-blog-feature-categories.php:76
+msgid "Contents"
+msgstr "Contenidos"
+
+#: inc/customize/fiona-blog-feature-categories.php:17
+msgid "Featured Categories"
+msgstr "Categorías destacadas"
+
+#: inc/customize/fiona-blog-feature-categories.php:8
+msgid "Homepage Sections"
+msgstr "Secciones de la página de inicio"
+
+#: inc/custom-controls/fiona-blog-category-dropdown-control.php:65
+msgid "All"
+msgstr "Todos"
+
+#: inc/customizer-notify/fiona-blog-customizer-notify.php:111
+msgid "Activating"
+msgstr "Activando"
+
+#: inc/sidebar/sidebar.php:42
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Éste área de widgets es para el widget de WooCommerce"
+
+#: inc/sidebar/sidebar.php:40
+msgid "WooCommerce Widget Area"
+msgstr "Área de widgets de WooCommerce"
+
+#: inc/sidebar/sidebar.php:32
+msgid "Footer Layout"
+msgstr "Diseño del pie de página"
+
+#: inc/sidebar/sidebar.php:30
+msgid "Footer Layout Section"
+msgstr "Diseño de la sección del pie de página"
+
+#: inc/sidebar/sidebar.php:22
+msgid "The Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: inc/sidebar/sidebar.php:20
+msgid "Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: inc/sidebar/sidebar.php:12
+msgid "The Primary Widget Area"
+msgstr "Área de widgets principal"
+
+#: inc/sidebar/sidebar.php:10
+msgid "Sidebar Widget Area"
+msgstr "Área de widgets de la barra lateral"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "Página"
+
+#: inc/breadcrumb/breadcrumb.php:141
+msgid "Error 404 "
+msgstr "Error 404 "
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Articles posted by "
+msgstr "Artículos publicados por "
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged "
+msgstr "Entradas con la etiqueta "
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "Resultados de la búsqueda de "
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "Archivo por categoría"
+
+#: inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:63
+msgid "View your shopping cart"
+msgstr "Ver el carrito de la compra"
+
+#: inc/class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr "Añade un menú"
+
+#: woocommerce/content-product.php:56
+msgid "out of 5"
+msgstr "de 5"
+
+#: woocommerce/content-product.php:56
+msgid "Rated %s out of 5"
+msgstr "Valorado %s de 5"
+
+#: woocommerce/content-product.php:36
+msgid "Sale"
+msgstr "Oferta"
+
+#: woocommerce/cart/mini-cart.php:104 woocommerce/cart/mini-cart.php:218
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:212
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+#: woocommerce/cart/mini-cart.php:57 woocommerce/cart/mini-cart.php:171
+msgid "Remove this item"
+msgstr "Eliminar este elemento"
+
+#: woocommerce/cart/mini-cart.php:32 woocommerce/cart/mini-cart.php:146
+msgid "Total:"
+msgstr "Total:"
+
+#: inc/extras.php:71 template-parts/sections/section-header.php:247
+#: woocommerce/cart/mini-cart.php:25 woocommerce/cart/mini-cart.php:139
+msgid "0"
+msgstr "0"
+
+#: inc/customize/fiona-blog-header.php:42 searchform.php:11
+msgid "Search"
+msgstr "Buscar"
+
+#: 404.php:29
+msgid "Back To Home"
+msgstr "Volver al inicio"
+
+#: 404.php:27
+msgid "Something Went Wrong"
+msgstr "Algo salió mal"
+
+#: 404.php:26
+msgid "OOPS!..."
+msgstr "¡Vaya!"
+
+#: 404.php:17 404.php:23
+msgid "4"
+msgstr "4"
+
+#: footer.php:29
+msgid "<span><a href=\"#\">Fiona WordPress Theme</a></span>"
+msgstr "<span><a href=\"#\">El tema de WordPress Fiona</a></span>"
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "Página a ancho completo"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/fiona-blog/"
+msgstr "https://www.nayrathemes.com/fiona-blog/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Nayra Themes"
+msgstr "Nayra Themes"
